@@ -8,3 +8,5 @@ Conjuntos de datos pequeños y de dominio humanístico para las prácticas del c
   siglo y para primeras prácticas con datos tabulares.
 
 Todos son de dominio público o de elaboración propia.
+- `obras_literarias.csv` — tabla de ~30 obras de la literatura en espanol
+  (titulo, autor, anio, genero, paginas), para practicas de pandas y visualizacion.
