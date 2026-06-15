@@ -10,3 +10,6 @@ Conjuntos de datos pequeños y de dominio humanístico para las prácticas del c
 Todos son de dominio público o de elaboración propia.
 - `obras_literarias.csv` — tabla de ~30 obras de la literatura en espanol
   (titulo, autor, anio, genero, paginas), para practicas de pandas y visualizacion.
+- `catalogo_ejemplo.html` — pagina HTML sencilla con una tabla de obras, para practicar
+  extraccion de datos (web scraping) de forma segura y reproducible.
+- `imagen_ejemplo.png` — imagen de ejemplo para las practicas de medios digitales (Pillow).

@@ -57,7 +57,7 @@ curso-python-humanidades-digitales/
 
 Cada jornada comprende cuatro horas de clase (dos bloques de dos horas) y una **hora intermedia de acompañamiento con el monitor**.
 
-> **Nota:** por ahora solo está desarrollado el **Día 1**. El resto de las carpetas se irán completando durante la semana.
+> **Nota:** los cinco días están desarrollados (cuadernos `.ipynb` en cada carpeta `dia-1` … `dia-5`). La monitoría del Día 3 y el Día 4 comparten la guía de instalación con `pip` (`dia-3/08_actividad_con_monitor_pip.ipynb`, en dos partes).
 
 ---
 
