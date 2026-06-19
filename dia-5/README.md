@@ -6,7 +6,9 @@ de medios digitales (imagen, audio y video) y diseño del proyecto integrador pa
 ## Cuadernos
 
 - `12_apis_y_extraccion_web.ipynb` — APIs y extracción de datos de la web.
-- `13_actividad_con_monitor_ia.ipynb` — actividad de acompañamiento con el monitor.
+- `13_actividad_con_monitor_ia.ipynb` — actividad con el monitor: tu primer **script local en VS Code**
+  (crear carpeta y `analisis.py`, entorno virtual, instalar `pandas`/`seaborn`/`matplotlib`, ejecutar y
+  guardar un PDF). Continúa la guía de `pip` y entornos virtuales del Día 3-4.
 - `14_medios_digitales_y_proyecto_integrador.ipynb` — medios digitales y diseño del proyecto integrador.
 - `15_proyecto_integrador_ia_local.ipynb` — **capstone**: analizador de textos literarios que
   reúne todo lo visto en la semana y ejecuta un **modelo de lenguaje local** (Ollama + Gemma 3n)
